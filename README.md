@@ -1,1 +1,2 @@
 # SkinnedUI_SwiftVersion
+本demo主要用swift实现了换肤的原理，参考了qfish大神的objective-c版本
